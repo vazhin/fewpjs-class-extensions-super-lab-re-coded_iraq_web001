@@ -10,6 +10,7 @@ class Tree {
 
 class Deciduous extends Tree {
   constuctor(species, name){
+    super(species)
 
   }
 }
